@@ -14,7 +14,7 @@ clonar o projeto
 https://docs.docker.com/compose/install/
 
 ## Subir com Docker Compose ()
-No terminal execute
+No terminal no caminho do projeto clonado execute
 docker compose up --build 
 
 Ou para executar em segundo plano e deixar o terminal livre
